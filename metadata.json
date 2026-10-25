@@ -1,0 +1,6 @@
+{
+  "name": "AetherTone 9-Transistor Retro Radio",
+  "description": "An authentic mid-century transistor radio experience streaming vintage AM, FM, and shortwave stations with analog tuning, static resonance, and acoustic speaker warmth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
